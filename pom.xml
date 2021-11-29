@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>org.hcl.poc</groupId>
 	<artifactId>springdemo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>springdemo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
